@@ -1,0 +1,6 @@
+pymupdf
+langchain
+sentence-transformers
+faiss-cpu
+langchain_community
+streamlit
