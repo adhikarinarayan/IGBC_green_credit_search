@@ -1,5 +1,6 @@
 # IGBC green credit-based search
 ---
+Application for a simple interface to search and retrieve information from the IGBC Green New Buildings Rating System guidelines. The green credit metadata enhances the search of the vector database to find relevant information based on user queries efficiently.
 
 ## Instructions
 
